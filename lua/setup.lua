@@ -31,3 +31,6 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 })
 
 vim.g.mkdp_browser = ""
+
+vim.opt.scrolloff = 999
+vim.opt.sidescrolloff=8

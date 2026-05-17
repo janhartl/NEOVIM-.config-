@@ -8,7 +8,8 @@ return {
 				lua = { "stylua" },
 				python = { "black" },
 				c = { "clang_format" },
-                latex = { "tex-fmt" },
+				latex = { "tex-fmt" },
+				java = { "clang_format" },
 			},
 		})
 		vim.keymap.set("n", "<leader>fo", conform.format, {})

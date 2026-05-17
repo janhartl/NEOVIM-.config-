@@ -33,6 +33,8 @@ return {
 			ast_grep = {},
 			clangd = {},
 			solargraph = {},
+			jdtls = {},
+            html = {},
 		},
 	},
 	config = function(_, opts)
