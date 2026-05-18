@@ -1,0 +1,8 @@
+require('config.packages.colorscheme')
+require('config.packages.blink')
+require('config.packages.mason')
+require('config.packages.harpoon')
+require('config.packages.hop')
+require('config.packages.oil')
+require('config.packages.telescope')
+require('config.packages.undotree')
